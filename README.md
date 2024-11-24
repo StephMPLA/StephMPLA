@@ -103,6 +103,12 @@ Je suis passionné par :
 - Les technologies immersives comme la réalité augmentée et la réalité virtuelle  
 
 ---
+## Où me trouver 🌍
+
+[![ArtStation](https://img.shields.io/badge/-ArtStation-13AFF0?logo=artstation&logoColor=white&style=flat)](https://www.artstation.com/stephmpla)  
+[![Itch.io](https://img.shields.io/badge/-Itch.io-FA5C5C?logo=itch.io&logoColor=white&style=flat)](https://stephmpla.itch.io/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/stéphane-mougeot/)  
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/@StephMPLA)
 
 📫 ### **Me contacter**  
 Je suis ouvert à toute discussion ou opportunité de collaboration. N'hésitez pas à m'envoyer un message ici sur GitHub. 🚀  
