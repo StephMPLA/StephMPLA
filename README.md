@@ -14,10 +14,6 @@ Actuellement, je suis en stage pour valider un titre professionnel de développe
 🚀 ### **Ce que je fais actuellement**
 - 🔭 **Je travaille sur :** Une application de réalité augmentée, en développant et optimisant le backend pour des professionnels.  
 - 🌱 **J'apprends actuellement :** React, ASP.NET et des technologies avancées de développement web.  
-- 👯 **Je cherche à collaborer sur :** Des projets de jeux vidéo (Unity ou Unreal Engine) ou de réalité augmentée.  
-- 🤔 **J'ai besoin d'aide avec :** Le perfectionnement de mes compétences en développement frontend.  
-- 💬 **Posez-moi des questions sur :** Blender, Unity, Unreal Engine, ou la modélisation 3D.  
-- 📫 **Me contacter :** Laissez-moi un message ici sur GitHub.  
 - ⚡ **Un fait amusant :** J'ai passé 20 ans sur les routes avant de devenir développeur passionné !  
 
 ---
