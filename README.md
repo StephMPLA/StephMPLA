@@ -5,6 +5,8 @@ Depuis 2014, je me forme en autodidacte à la modélisation 3D avec Blender, cr�
 
 Actuellement, je suis en stage pour valider un titre professionnel de développeur web (bac+2). Je travaille sur une application de réalité augmentée, en gérant le côté backend d'une solution dédiée aux professionnels. Mon objectif est de poursuivre mes études en alternance pour obtenir un titre de concepteur développeur d'application (bac+4) sur un an.  
 
+---
+
 🛠️### **Dans mon "labo"**: je crée des jeux vidéo avec Unity, développe des sites web, et explore des technologies immersives comme la réalité augmentée et virtuelle.  
 
 ---
@@ -49,7 +51,6 @@ Actuellement, je suis en stage pour valider un titre professionnel de développe
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
 #### Autres compétences
-![Meta Quest 3](https://img.shields.io/badge/-Meta%20Quest%203-1877F2?logo=meta&logoColor=white&style=flat)
 ![Agile](https://img.shields.io/badge/-Agile-007ACC?logo=azure-devops&logoColor=white&style=flat)
 ![UML](https://img.shields.io/badge/-UML-FFCA28?logo=uml&logoColor=black&style=flat)
 
