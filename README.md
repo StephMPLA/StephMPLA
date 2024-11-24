@@ -45,6 +45,7 @@ Actuellement, je suis en stage pour valider un titre professionnel de développe
 #### Outils de versionnement
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![Unity Version Control](https://img.shields.io/badge/-Unity%20Version%20Control-222324?logo=unity&logoColor=white&style=flat)
 
 #### Autres compétences
 ![Agile](https://img.shields.io/badge/-Agile-007ACC?logo=azure-devops&logoColor=white&style=flat)
