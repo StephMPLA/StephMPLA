@@ -9,7 +9,7 @@ Actuellement, je suis en stage pour valider un titre professionnel de développe
 
 🛠️ ### **Dans mon "labo"** 
 - Je crée des jeux vidéo avec Unity, développe des sites web, et explore des technologies immersives comme la réalité augmentée et virtuelle.  
-
+- Je partage mes connaissances grâce à la création de contenu sur ma chaîne YouTube, dédiée à la création de jeux vidéo avec Unity.
 ---
 
 🚀 ### **Ce que je fais actuellement**
