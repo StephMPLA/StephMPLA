@@ -7,7 +7,8 @@ Actuellement, je suis en stage pour valider un titre professionnel de développe
 
 ---
 
-🛠️ ### **Dans mon "labo"** : je crée des jeux vidéo avec Unity, développe des sites web, et explore des technologies immersives comme la réalité augmentée et virtuelle.  
+🛠️ ### **Dans mon "labo"** 
+Je crée des jeux vidéo avec Unity, développe des sites web, et explore des technologies immersives comme la réalité augmentée et virtuelle.  
 
 ---
 
