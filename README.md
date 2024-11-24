@@ -29,20 +29,40 @@ Actuellement, je suis en stage pour valider un titre professionnel de développe
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 
+### **IDE et outils de développement**  
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipse&logoColor=white&style=flat)  
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)  
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat)  
+![JetBrains](https://img.shields.io/badge/-JetBrains-000000?logo=jetbrains&logoColor=white&style=flat)  
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)  
+
 #### Frameworks et outils
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=.net&logoColor=white&style=flat)
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?logo=unreal-engine&logoColor=white&style=flat)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=.net&logoColor=white&style=flat)  
+![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white&style=flat)  
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat)  
+![Twig](https://img.shields.io/badge/-Twig-68A375?logo=twig&logoColor=white&style=flat)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)  
+![JQuery](https://img.shields.io/badge/-JQuery-0769AD?logo=jquery&logoColor=white&style=flat)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)  
+![Java SE](https://img.shields.io/badge/-Java%20SE-007396?logo=java&logoColor=white&style=flat)  
+
+### **CMS**  
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)  
+![Joomla](https://img.shields.io/badge/-Joomla-5091CD?logo=joomla&logoColor=white&style=flat)  
+
+#### ORM 
+![Doctrine](https://img.shields.io/badge/-Doctrine-000000?logo=doctrine&logoColor=white&style=flat)  
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?logo=.net&logoColor=white&style=flat)  
+
 
 #### Bases de données
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
-#### Outils de versionnement
+### **Gestion de versions et conteneurs**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![Unity Version Control](https://img.shields.io/badge/-Unity%20Version%20Control-222324?logo=unity&logoColor=white&style=flat)
@@ -51,8 +71,23 @@ Actuellement, je suis en stage pour valider un titre professionnel de développe
 ![Agile](https://img.shields.io/badge/-Agile-007ACC?logo=azure-devops&logoColor=white&style=flat)
 ![UML](https://img.shields.io/badge/-UML-FFCA28?logo=uml&logoColor=black&style=flat)
 
-#### Casque VR
-![Meta Quest 3](https://img.shields.io/badge/-Meta%20Quest%203-1877F2?logo=meta&logoColor=white&style=flat)
+#### Moteur de jeux
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?logo=unreal-engine&logoColor=white&style=flat)
+
+### **Compétences en infographie 3D**  
+- **Rigging** : Création et animation de squelettes pour personnages et objets 3D  
+- **Texturing** : Création de textures haute qualité pour modèles 3D  
+- **Outils spécialisés :**  
+  - ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=flat)  
+  - ![Substance Painter](https://img.shields.io/badge/-Substance%20Painter-FF552F?logo=adobe&logoColor=white&style=flat)  
+  - ![Substance Designer](https://img.shields.io/badge/-Substance%20Designer-FF552F?logo=adobe&logoColor=white&style=flat)  
+
+
+### **Technologies immersives**  
+- Réalité augmentée  
+- Réalité virtuelle (![Meta Quest 3](https://img.shields.io/badge/-Meta%20Quest%203-1877F2?logo=meta&logoColor=white&style=flat))  
+
 ---
 
 🎯 ### **Mon objectif**  
