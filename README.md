@@ -9,7 +9,7 @@ Actuellement, je suis en stage pour valider un titre professionnel de développe
 
 ---
 
-🚀 ###**Ce que je fais actuellement**
+🚀 ### **Ce que je fais actuellement**
 - 🔭 **Je travaille sur :** Une application de réalité augmentée, en développant et optimisant le backend pour des professionnels.  
 - 🌱 **J'apprends actuellement :** React, ASP.NET et des technologies avancées de développement web.  
 - 👯 **Je cherche à collaborer sur :** Des projets de jeux vidéo (Unity ou Unreal Engine) ou de réalité augmentée.  
@@ -20,7 +20,7 @@ Actuellement, je suis en stage pour valider un titre professionnel de développe
 
 ---
 
-🧰 ###**Ma boîte à outils** 
+🧰 ### **Ma boîte à outils** 
 
 #### Langages
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
@@ -53,6 +53,8 @@ Actuellement, je suis en stage pour valider un titre professionnel de développe
 ![Agile](https://img.shields.io/badge/-Agile-007ACC?logo=azure-devops&logoColor=white&style=flat)
 ![UML](https://img.shields.io/badge/-UML-FFCA28?logo=uml&logoColor=black&style=flat)
 
+#### Casque VR
+![Meta Quest 3](https://img.shields.io/badge/-Meta%20Quest%203-1877F2?logo=meta&logoColor=white&style=flat)
 ---
 
 🎯### **Mon objectif**  
