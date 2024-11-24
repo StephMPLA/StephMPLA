@@ -7,7 +7,7 @@ Actuellement, je suis en stage pour valider un titre professionnel de développe
 
 ---
 
-🛠️### **Dans mon "labo"**: je crée des jeux vidéo avec Unity, développe des sites web, et explore des technologies immersives comme la réalité augmentée et virtuelle.  
+🛠️ ### **Dans mon "labo"** : je crée des jeux vidéo avec Unity, développe des sites web, et explore des technologies immersives comme la réalité augmentée et virtuelle.  
 
 ---
 
@@ -55,12 +55,12 @@ Actuellement, je suis en stage pour valider un titre professionnel de développe
 ![Meta Quest 3](https://img.shields.io/badge/-Meta%20Quest%203-1877F2?logo=meta&logoColor=white&style=flat)
 ---
 
-🎯### **Mon objectif**  
+🎯 ### **Mon objectif**  
 Réussir ma reconversion professionnelle pour devenir concepteur développeur d'application.  
 
 ---
 
-🎨### **Centres d’intérêt**  
+🎨 ### **Centres d’intérêt**  
 Je suis passionné par :  
 - La création de jeux vidéo et de contenus 3D  
 - Le développement de sites web modernes et interactifs  
@@ -68,6 +68,6 @@ Je suis passionné par :
 
 ---
 
-📫### **Me contacter**  
+📫 ### **Me contacter**  
 Je suis ouvert à toute discussion ou opportunité de collaboration. N'hésitez pas à m'envoyer un message ici sur GitHub. 🚀  
 
