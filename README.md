@@ -56,7 +56,8 @@ Actuellement, je suis en stage pour valider un titre professionnel de développe
 #### ORM 
 ![Doctrine](https://img.shields.io/badge/-Doctrine-000000?logo=doctrine&logoColor=white&style=flat)  
 ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?logo=.net&logoColor=white&style=flat)  
-
+![JPA](lien_vers_le_logo_JPA)
+![Hibernate](lien_vers_le_logo_Hibernate)
 
 #### Bases de données
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
