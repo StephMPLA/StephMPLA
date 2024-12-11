@@ -93,6 +93,9 @@ Actuellement, je suis en stage pour valider un titre professionnel de développe
 
 ---
 
+![Unity Certified](https://img.shields.io/badge/-Unity%20Certified-000000?logo=unity&logoColor=white&style=flat)
+
+
 🎯 ### **Mon objectif**  
 Réussir ma reconversion professionnelle pour devenir concepteur développeur d'application.  
 
