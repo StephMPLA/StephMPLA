@@ -75,7 +75,7 @@ Actuellement, je suis en stage pour valider un titre professionnel de développe
 ![UML](https://img.shields.io/badge/-UML-FFCA28?logo=uml&logoColor=black&style=flat)
 
 #### Moteur de jeux
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)
+![Unity Certified](https://img.shields.io/badge/-Unity%20Certified-000000?logo=unity&logoColor=white&style=flat)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?logo=unreal-engine&logoColor=white&style=flat)
 
 ### **Compétences en infographie 3D**  
@@ -92,8 +92,6 @@ Actuellement, je suis en stage pour valider un titre professionnel de développe
 - Réalité virtuelle (![Meta Quest 3](https://img.shields.io/badge/-Meta%20Quest%203-1877F2?logo=meta&logoColor=white&style=flat))  
 
 ---
-
-![Unity Certified](https://img.shields.io/badge/-Unity%20Certified-000000?logo=unity&logoColor=white&style=flat)
 
 
 🎯 ### **Mon objectif**  
