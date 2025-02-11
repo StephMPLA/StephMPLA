@@ -3,7 +3,7 @@ Passionné par la technologie et la création, j'ai un parcours atypique mêlant
 
 Depuis 2014, je me forme en autodidacte à la modélisation 3D avec Blender, créant des mods pour *Assetto Corsa*. En 2020, j'ai développé un jeu sur Unreal Engine 4 pour ma ville, présenté lors d'un événement local. Certifié Unity Game Developer depuis 2021, je continue de nourrir ma passion pour le développement et la 3D.  
 
-Actuellement, je suis en stage pour valider un titre professionnel de développeur web (bac+2). Je travaille sur une application de réalité augmentée, en gérant le côté backend d'une solution dédiée aux professionnels. Mon objectif est de poursuivre mes études en alternance pour obtenir un titre de concepteur développeur d'application (bac+4) sur un an.  
+Actuellement à la recherche d'une alternance pour obtenir un titre de concepteur développeur d'application (bac+4) sur un an.  
 
 ---
 
