@@ -10,7 +10,7 @@ Je suis actuellement à la recherche d’une alternance Bac+3 Concepteur Dévelo
 Application web avec un frontend en React et un backend en PHP / Symfony
 (projet professionnel – nom volontairement confidentiel)
 
-Montée en compétences sur React, Symfony et JavaScript moderne
+Montée en compétences sur PHP, Symfony, JavaScript et React
 
 Parcours atypique après 20 ans d’expérience dans le transport routier
 
