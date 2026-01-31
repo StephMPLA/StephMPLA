@@ -5,14 +5,30 @@ Je travaille sur des projets mêlant développement web, applications, Unity et 
 
 Je suis actuellement à la recherche d’une alternance Bac+3 Concepteur Développeur d’Applications, ou de toute autre opportunité, afin d’intégrer une équipe expérimentée et progresser aux côtés de développeurs confirmés.
 
-### Ce sur quoi je travaille actuellement
+### Compétences mises en œuvre (projets Symfony)
 
-Application web avec un frontend en React et un backend en PHP / Symfony
-(projet professionnel – nom volontairement confidentiel)
+**Architecture & bonnes pratiques**
+- Applications Symfony 6.4 LTS structurées (services, contrôleurs légers)
+- CRUD complets avec logique métier
+- DTO pour découpler entités et formulaires / API
+- Gestion fine des autorisations (Voters, rôles)
+- Fixtures de données (Doctrine, Faker)
+- Configuration par variables d’environnement
 
-Montée en compétences sur PHP, Symfony, JavaScript et React
+**Sécurité**
+- Protection CSRF et validation serveur
+- Gestion des rôles et permissions
+- 2FA, politique de mots de passe
+- Headers de sécurité et HTTPS
+- Rate limiting et protection anti-bot
 
-Parcours atypique après 20 ans d’expérience dans le transport routier
+**Fonctionnalités & intégrations**
+- Formulaires sécurisés & mails (Symfony Mailer)
+- Paiements en ligne (Stripe)
+- Carte interactive (Leaflet – RGPD)
+- SEO avancé (JSON-LD)
+- Intégration 3D / AR selon projets
+
 
 ### Stack principale
 # Langages & plateformes
@@ -35,7 +51,9 @@ Doctrine, Entity Framework
 
 # Outils & versioning
 
-Git, GitHub
+Git, GitHub  
+Linux (environnement de développement, permissions, CLI)  
+Docker (containers, docker-compose – usage en environnement de développement)  
 
 Visual Studio Code, PhpStorm, Visual Studio Community
 
