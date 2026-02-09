@@ -16,6 +16,7 @@ Je recherche actuellement une alternance Bac+3 Concepteur Développeur d’Appli
 - PHP
 - JavaScript
 - C#
+- Java
 - SQL
 
 **Frameworks & technologies**
