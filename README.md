@@ -1,7 +1,6 @@
 ### À propos de moi
 
-Développeur en reconversion, passionné par les nouvelles technologies, la programmation et la 3D.  
-Je conçois des projets mêlant développement web, applications, Unity et création interactive.
+Développeur en reconversion, passionné par la programmation, les nouvelles technologies et la 3D. Certifié Unity, j’ai réalisé plusieurs projets, dont une formation complète sur le moteur de jeu Unity, actuellement en vente sur Tuto.com. J’interviens également en centre de formation certifié Qualiopi en tant que formateur externe sur Unity et le langage C#.
 
 Je dispose de plusieurs projets réalisés dans le cadre de mon apprentissage et de missions freelance, dont une partie est actuellement en dépôts privés.  
 Je construis désormais un GitHub public structuré et professionnel, orienté démonstration de compétences techniques pour les recruteurs.
@@ -23,7 +22,6 @@ Je recherche actuellement une alternance Bac+3 Concepteur Développeur d’Appli
 - Symfony
 - React
 - Tailwind CSS
-- Unity (2D, 3D, VR, AR)
 
 **Bases de données & ORM**
 - MySQL
@@ -41,6 +39,7 @@ Je recherche actuellement une alternance Bac+3 Concepteur Développeur d’Appli
 - Visual Studio Community
 
 **3D & création interactive**
+- Moteur de jeux Unity
 - Modélisation et texturing 3D
 - Expériences temps réel avec Unity
 - Blender
