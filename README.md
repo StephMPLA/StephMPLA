@@ -6,8 +6,6 @@ J’interviens également en centre de formation certifié Qualiopi en tant que 
 Je dispose de plusieurs projets réalisés dans le cadre de mon apprentissage et de missions freelance, dont une partie est actuellement en dépôts privés.
 Je construis désormais un GitHub public structuré et professionnel, orienté démonstration de compétences techniques pour les recruteurs.
 
-✅ Admis en formation Concepteur Développeur d’Applications (Bac+3) au CESI et à l’ENI École Informatique, avec possibilité de démarrage en alternance tout au long de l’année selon l’entreprise d’accueil.
-
 Je recherche actuellement une alternance Bac+3 CDA — ou toute opportunité en développement web/backend — afin d’intégrer une équipe expérimentée et de contribuer à des projets concrets.
 
 ---
