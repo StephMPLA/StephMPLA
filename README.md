@@ -1,64 +1,42 @@
-À propos de moi
+## À propos
 
-Développeur en reconversion, passionné par la programmation, les nouvelles technologies et la 3D. Certifié Unity, j’ai réalisé plusieurs projets, dont une formation complète sur le moteur de jeu Unity actuellement proposée sur Tuto.com.
-J’interviens également en centre de formation certifié Qualiopi en tant que formateur externe sur Unity et le langage C#.
+Développeur backend orienté applications métier, je travaille principalement avec **PHP/Symfony**.  
+J’utilise également **Java/Spring Boot** et **C#** selon les projets.
 
-Je dispose de plusieurs projets réalisés dans le cadre de mon apprentissage et de missions freelance, dont une partie est actuellement en dépôts privés.
-Je construis désormais un GitHub public structuré et professionnel, orienté démonstration de compétences techniques pour les recruteurs.
-
-Je recherche actuellement une alternance Bac+3 CDA — ou toute opportunité en développement web/backend — afin d’intégrer une équipe expérimentée et de contribuer à des projets concrets.
+Je recherche en priorité un **CDI en développement backend**, tout en restant ouvert à une **alternance Bac+3 CDA** ou à une **POEI**.
 
 ---
 
-### Stack principale
+## Projets principaux
 
-**Langages**
-- PHP
-- JavaScript
-- C#
-- Java
-- SQL
+### Emploi Compatible
+Plateforme web complète dédiée à la recherche d’emploi et au recrutement par compatibilité multicritère.
 
-**Frameworks & technologies**
-- Symfony
-- React
-- Tailwind CSS
+**Symfony · Doctrine · MySQL · Stimulus · Turbo · API REST · Docker**
 
-**Bases de données & ORM**
-- MySQL
-- PostgreSQL
-- SQL Server
-- MongoDB
-- Doctrine ORM
+### La Palme Numérique
+Conception et développement de solutions numériques métier sur mesure.
 
-**Outils & environnement**
-- Git / GitHub
-- Linux / Windows
-- Docker
-- Visual Studio Code
-- PhpStorm
-- Visual Studio Community
-
-**3D & création interactive**
-- Moteur de jeux Unity
-- Modélisation et texturing 3D
-- Expériences temps réel avec Unity
-- Blender
-- Substance Painter
-- Substance Designer
+### Vehicle Sales Management
+Application Symfony de gestion de véhicules, utilisateurs et réservations.
 
 ---
 
-### Me retrouver
+## Compétences
 
-🧠 Codewars : https://www.codewars.com/users/StephMPLA  
-🎨 ArtStation : https://www.artstation.com/stephmpla  
-🎮 Itch.io : https://stephmpla.itch.io/  
-💼 LinkedIn : https://www.linkedin.com/in/st%C3%A9phane-mougeot/  
-▶️ YouTube : https://www.youtube.com/@StephMPLA  
+**PHP · Symfony · Java · Spring Boot · C# · JavaScript · SQL · React · MySQL · PostgreSQL · Docker · Git · Linux**
 
 ---
 
-### Contact
+## Autres compétences
 
-Ouvert aux échanges techniques et aux opportunités — un message sur GitHub ou LinkedIn est toujours bienvenu.
+**Unity · Blender · Modélisation 3D · Formation Unity / C#**
+
+---
+
+## Liens
+
+- LinkedIn : https://www.linkedin.com/in/st%C3%A9phane-mougeot/
+- Portfolio : https://portfolio.lapalmenumerique.fr/
+- Codewars : https://www.codewars.com/users/StephMPLA
+- ArtStation : https://www.artstation.com/stephmpla
