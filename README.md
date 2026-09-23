@@ -3,7 +3,7 @@
 Développeur backend orienté applications métier, je travaille principalement avec **PHP/Symfony**.  
 J’utilise également **Java/Spring Boot** et **C#** selon les projets.
 
-Je recherche en priorité un **CDI en développement backend**, tout en restant ouvert à une **alternance Bac+3 CDA** ou à une **POEI**.
+Je recherche en priorité un **CDI en développement backend**, tout en restant ouvert à une **alternance en contrat d'apprentissage pour un Bac+3 Concepteur Développeur d'Applications** ou à une **POEI**.
 
 ---
 
